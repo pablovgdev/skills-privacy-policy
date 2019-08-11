@@ -1,5 +1,4 @@
-Privacy Policy  
-for Alexa Skills
+Privacy Policy for Alexa Skills
 =================================
 
 This privacy policy describes how vforverdu (Pablo Verdugo Garrido) (“vforverdu”, “us” or “we”) protects your (“you”, “the user”) privacy and your data. Before using any of our Alexa Skills, please read this policy and our Alexa Skills Terms of Use, as well as the Alexa Terms of Use and the Privacy Policies by the Amazon Digital Services LLC (with its affiliates, “Amazon”).
